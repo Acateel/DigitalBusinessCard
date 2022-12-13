@@ -1,3 +1,9 @@
+import photo from "../../public/temporary-image.jpg"
+
 export default function Info(){
-    return <h1>Info</h1>
+    return (
+        <header>
+            <img className="photo" src={photo} alt="photo" />
+        </header>
+    )
 }
