@@ -37,6 +37,7 @@ header {
     padding: 8px;
     border: #D1D5DB solid 1px;
     border-radius: 6px;
+    cursor: pointer;
 }
 
 .email > * {
