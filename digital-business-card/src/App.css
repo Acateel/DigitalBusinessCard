@@ -5,3 +5,25 @@
     margin: auto;
     border-radius: 10px;
 }
+
+main {
+    width: 247px;
+    margin: 35px;
+    margin-top: 25px;
+}
+
+main > h1 {
+    font-size: 16px;
+    line-height: 0px;
+    color: #F5F5F5;
+    line-height: 150%;
+    margin: 0px;
+}
+
+.text {
+    font-size: 10.24px;
+    font-weight: 300;
+    color: #DCDCDC;
+    line-height: 150%;
+    margin: 0px;
+}
