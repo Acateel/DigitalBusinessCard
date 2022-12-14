@@ -8,7 +8,6 @@ export default function Info(){
             <h4 className="job">Frontend Developer</h4>
             <h5 className="website">taraskozodoi.website</h5>
             <button className="email">Email</button>
-            <button className="linkedln">Linkedln</button>
         </header>
     )
 }
