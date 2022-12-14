@@ -8,8 +8,13 @@ footer {
     margin-top: 35px;
 }
 
+footer > a {
+    margin: auto;
+}
+
 .icon {
     height: 25px;
     width: 25px;
     margin: auto;
+    cursor: pointer;
 }
