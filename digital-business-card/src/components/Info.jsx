@@ -1,3 +1,4 @@
+import './Info.css'
 import photo from "../../public/temporary-image.jpg"
 import emailIco from "../../public/Mail.png"
 

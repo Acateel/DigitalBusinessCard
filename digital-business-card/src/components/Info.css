@@ -1,0 +1,53 @@
+
+header {
+    text-align: center;
+    line-height: 8px;
+}
+
+.photo {
+    height: 317px;
+    width: 317px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.fullname {
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.job {
+    font-size: 12.8px;
+    font-weight: lighter;
+    color: #F3BF99;
+}
+
+.website {
+    color: #F5F5F5;
+    font-size: 10.24px;
+    font-weight: lighter;
+}
+
+.email {
+    width: 247px;
+    font-size: 14px;
+    /* display: flex; */
+    align-items: center;
+    padding: 8px;
+    border: #D1D5DB solid 1px;
+    border-radius: 6px;
+}
+
+.email > * {
+    vertical-align: middle;
+}
+
+.email > span {
+    color: #374151;
+}
+
+.email > img {
+    width: 16px;
+    margin-right: 0.5em;
+}
