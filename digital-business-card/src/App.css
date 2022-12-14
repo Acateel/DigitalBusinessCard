@@ -35,3 +35,26 @@ header {
     font-size: 10.24px;
     font-weight: lighter;
 }
+
+.email {
+    width: 247px;
+    font-size: 14px;
+    /* display: flex; */
+    align-items: center;
+    padding: 8px;
+    border: #D1D5DB solid 1px;
+    border-radius: 6px;
+}
+
+.email > * {
+    vertical-align: middle;
+}
+
+.email > span {
+    color: #374151;
+}
+
+.email > img {
+    width: 16px;
+    margin-right: 0.5em;
+}
