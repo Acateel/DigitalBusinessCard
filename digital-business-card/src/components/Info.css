@@ -32,7 +32,7 @@ header {
 .email {
     width: 247px;
     font-size: 14px;
-    /* display: flex; */
+    background-color: white;
     align-items: center;
     padding: 8px;
     border: #D1D5DB solid 1px;
@@ -48,6 +48,6 @@ header {
 }
 
 .email > img {
-    width: 16px;
+    width: 17px;
     margin-right: 0.5em;
 }
